@@ -6,4 +6,8 @@ public class A {
     public A(int d) {
         this.d = d;
     }
+
+    public int getD() {
+        return d;
+    }
 }
